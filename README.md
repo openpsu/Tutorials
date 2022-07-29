@@ -27,9 +27,8 @@ Tutorials repository. All tutorials and courses Free to use for everyone!
 
 # Technology Development
 - ## Full Stack Development
-  - Some of the best open-source courses{w.i.p}
-  - [Full Stack Open](https://fullstackopen.com/): Take control of React, Redux, Node.js, MongoDB, GraphQL and TypeScript! The course introduces you to modern web application development using JavaScript
-  - [The Odin Project](https://www.theodinproject.com/):{description}
+  - [The Odin Project](https://www.theodinproject.com): The Odin Project is a coding bootcamp that provides an open-source curriculum to students who want to learn to code but can't afford to join traditional education paths. The Odin Project's online programs cover languages like JavaScript, HTML and CSS, Ruby on Rails, and Node. I recommend starting from foundationals then take the javascript track.
+  - [Full Stack Open](https://fullstackopen.com/): Take control of React, Redux, Node.js, MongoDB, GraphQL and TypeScript! The course introduces you to modern web application development using JavaScript. The content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki
 
 - ## DevOps
   - 
@@ -42,6 +41,8 @@ Tutorials repository. All tutorials and courses Free to use for everyone!
 
 - ## Hardware
   - 
+
+- ## Self-Learn: [Teach yourself CS](https://teachyourselfcs.com/): learn everything about Computer Science
 
 # Clubs and Orgs
 - ## Club1
