@@ -29,7 +29,14 @@ Tutorials repository. All tutorials and courses Free to use for everyone!
 - ## Full Stack Development
   - [The Odin Project](https://www.theodinproject.com): The Odin Project is a coding bootcamp that provides an open-source curriculum to students who want to learn to code but can't afford to join traditional education paths. The Odin Project's online programs cover languages like JavaScript, HTML and CSS, Ruby on Rails, and Node. I recommend starting from foundationals then take the javascript track.
   - [Full Stack Open](https://fullstackopen.com/): Take control of React, Redux, Node.js, MongoDB, GraphQL and TypeScript! The course introduces you to modern web application development using JavaScript. The content is the same as in the Full stack course held at the Department of Computer Science at the University of Helsinki
-
+- ## Backend Specific
+    - ### Java 
+      - [Spring](https://docs.spring.io/spring-framework/docs/current/reference/html/): The most popular web framework for Java. At its core it is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform.
+      - [Spring Boot Quickstart](https://spring.io/guides/gs/spring-boot/)
+      - [Extra References](https://www.baeldung.com/)
+    - ### Kotlin
+      - [Ktor](https://ktor.io/learn/) A framework built by JetBrains for creating Web applications in Kotlin, making use of coroutines for high scalability and offering an easy-to-use and idiomatic API.
+      - [Micronaut](https://micronaut.io/learn/) A modern JVM-based full-stack framework for building modular, easily testable microservices and serverless applications. It comes with a lot of useful built-in features.
 - ## DevOps
   - 
 
