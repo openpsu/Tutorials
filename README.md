@@ -41,7 +41,17 @@ Tutorials repository. All tutorials and courses Free to use for everyone!
   - 
 
 - ## Cloud Technologies
-  - 
+  - So you've written the code, now you want to deploy it!
+    Let's break down the ways to run your software into 3 categories that every dev should know.
+    - ### Website/Frontend App
+      Perhaps you have a portfolio, personal website, or landing page amd you need to quickly serve up those pages at a domain.
+    - ### Web App, Application Hosting 
+      On top of providing you the tools to launch web apps, cloud hosting platforms let you allocate customs VMs, databases, and containers.
+  
+    - ### Cloud Infrastructure Providers
+      These cloud providers give you access to cloud resources for specific scenarios. Large software companies depend on these providers and some jobs focus around designing this infrastructure.
+      - [Azure](https://azure.microsoft.com/en-us/) Azure is Microsoft's cloud offerings. The GitHub Student Pack that comes with university emails gives you $100 in credits.
+      - [Azure for students](https://azure.microsoft.com/en-us/free/students/?WT.mc_id=academic-9938-cxa)
 
 - ## Firmware-Embedded
   - 
